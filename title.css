@@ -1,0 +1,11 @@
+.black-title {
+  font-size: 25px;
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+.gray-title {
+  font-size: 15px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.4);
+}
